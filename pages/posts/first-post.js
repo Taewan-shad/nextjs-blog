@@ -8,7 +8,7 @@ export default function FirstPost() {
         <Head>
             <title>First Post</title>
         </Head>
-      <h1>First Post</h1>
+      <h1>[Hello, I'm TaeWan. I'm a freshman in the dept. of information systems at Hanyang University]</h1>
       <h2>
         <Link href="/">Back to home</Link>
       </h2>
